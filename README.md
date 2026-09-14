@@ -6,3 +6,6 @@ Phase 1 (Journal):
 
 Phase 2 (Journal):
 - When you assign a value to a property of an object that doesn’t exist yet, JavaScript will automatically create that property on the object and stores the assigned value.
+
+Phase 3 (Journal):
+- To be honest, it lost me. All I did was add the subtotal and updated the loop, but it returned several errors.
