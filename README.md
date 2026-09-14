@@ -9,3 +9,7 @@ Phase 2 (Journal):
 
 Phase 3 (Journal):
 - To be honest, it lost me. All I did was add the subtotal and updated the loop, but it returned several errors.
+
+Phase 4 (Journal):
+- All the .pop() method did was remove the last piece of the array and loses the price value of the item.
+- It also has errors in return.
